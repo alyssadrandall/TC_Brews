@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/TC_Brews'
+require_relative '../lib/CLI'
+require_relative '../lib/Brewery'
+require_relative '../lib/API' 
